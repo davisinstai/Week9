@@ -1,6 +1,6 @@
-# CS154-Week7
+# CS154-Week9
 
 Topics:
-* Recursion
-* Efficiency
-* Top-Down Design
+* Copying python objects
+* Python memory model
+* Creating a corpus class
