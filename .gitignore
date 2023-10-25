@@ -1,0 +1,7 @@
+celery.sqlite
+celerybeat-schedule
+django-errors.log
+.ipynb_checkpoints/Week5-0-checkpoint.ipynb
+.ipynb_checkpoints/Week5-1-checkpoint.ipynb
+.ipynb_checkpoints/Week5-2-checkpoint.ipynb
+.ipynb_checkpoints/Week5-3-checkpoint.ipynb
