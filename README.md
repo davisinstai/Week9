@@ -3,4 +3,5 @@
 Topics:
 * Copying python objects
 * Python memory model
-* Creating a corpus class
+* Introduction to transformers
+
